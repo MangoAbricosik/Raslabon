@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aztdHDvY2p6eT+5rxE6Ox/rRylOcQB7jk577+MUb3ZrtZDvzlENP42/pG6KRsW1aiqeiT/zEjsVZspbo1uuPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Solo 2\\Solo 2\\Solo 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
